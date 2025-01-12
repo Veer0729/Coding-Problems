@@ -32,6 +32,3 @@ public int maxWater(int arr[]) {
     
     return ans; // Return the total trapped water
 }
-```
-
-This should make it clear what each part of the code is doing!
